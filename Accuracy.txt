@@ -1,0 +1,6 @@
+Medicinal Herbs Identification.
+
+Algorithm / Model Used: Xception Architecture.
+ 
+Training Accuracy: 93.34%.
+Validation Accuracy of 96.79%.
